@@ -1,0 +1,132 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Privacy Policy</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            line-height: 1.6;
+            margin: 20px;
+        }
+        h1, h2, h3 {
+            color: #333;
+        }
+        p {
+            margin-bottom: 10px;
+        }
+        ul {
+            margin-left: 20px;
+        }
+    </style>
+</head>
+<body>
+    <h1>Privacy Policy in Relation to the Processing of Personal Data</h1>
+
+    <h2>1. Legal Framework</h2>
+    <p>This Privacy Policy describes how ViReInstruments, S.L. collects and processes personal data in compliance with the European General Data Protection Regulation (GDPR EU 2016/679) and the Spanish Organic Law on Data Protection (LOPDGDD 03/2018).</p>
+
+    <h2>2. Identification of the Data Controller</h2>
+    <p>The identification details of the data controller are:</p>
+    <ul>
+        <li><strong>Identity:</strong> ViReInstruments S.L. (hereinafter, "the Company")</li>
+        <li><strong>NIF:</strong> B67564823</li>
+        <li><strong>Mailing address:</strong> Calle Travessera De Dalt, 32 - P. 4 Pta. 2, Barcelona, 08024, Barcelona</li>
+        <li><strong>Email:</strong> help@babyvr.app</li>
+    </ul>
+
+    <h2>3. Data Type</h2>
+    <p>The Company obtains and/or requests personal data in order to offer its products and/or provide its services to the following groups of interested parties and/or in the following ways:</p>
+    <ul>
+        <li><strong>(a) End Users:</strong> May provide data directly through forms on the website, cloud platform, email, or social networks; or indirectly through B2B users.</li>
+        <li><strong>(b) Distributor Users:</strong> May provide data through forms on the website, cloud platform, email, social networks, or by entering into commercial distribution agreements.</li>
+        <li><strong>(c) Worker Candidates:</strong> The Company may access personal data during the selection process, and process the data of those hired.</li>
+        <li><strong>(d) Data Associated with the Cookies Policy:</strong> Please consult the Company's Cookies Policy.</li>
+        <li><strong>(e) Data of Communications with the Company:</strong> Collected when sending email communications, including metadata (time, date, sender, receiver, technical data).</li>
+        <li><strong>(f) Data of Workers or Candidate Workers:</strong> Accessed and processed during and after selection processes.</li>
+    </ul>
+
+    <h2>4. Information on the Processing of Personal Data</h2>
+    <p>The Company collects only the data strictly necessary to offer its services. Personal data will only be used for the following purposes:</p>
+    <h3>(a) End Users</h3>
+    <ul>
+        <li><strong>Origin:</strong> Directly through forms on the website, cloud platform, email, social networks; or indirectly through Distributor Users.</li>
+        <li><strong>Legal Basis:</strong> GDPR, Art. 6.1.b: Performance of a contract.</li>
+        <li><strong>Purposes of Processing:</strong> To provide the required service and potentially send commercial communications.</li>
+        <li><strong>Data Category:</strong> Name, surname, notification/billing address, ID card, phone number, email, gestation weeks, ultrasound files.</li>
+        <li><strong>Recipients:</strong> No data transfer to third parties except by legal obligation or informed consent.</li>
+        <li><strong>International Transfer:</strong> Not planned.</li>
+        <li><strong>Retention Periods:</strong> Until the purpose for which they were collected ends, unless legally required to keep them.</li>
+    </ul>
+
+    <h3>(b) Distributor Users</h3>
+    <ul>
+        <li><strong>Origin:</strong> From the interested party through forms on the website, cloud platform, email, social networks, or commercial agreements.</li>
+        <li><strong>Legal Basis:</strong> GDPR, Art. 6.1.b: Performance of a contract.</li>
+        <li><strong>Purposes of Processing:</strong> To provide the required service and potentially send commercial communications.</li>
+        <li><strong>Data Category:</strong> Name, surname, company name, notification/billing address, DNI/NIF, bank account number, website, phone number, email address.</li>
+        <li><strong>Recipients:</strong> No data transfer to third parties except by legal obligation or informed consent.</li>
+        <li><strong>International Transfer:</strong> Not planned.</li>
+        <li><strong>Retention Periods:</strong> Until the purpose for which they were collected ends, unless legally required to keep them.</li>
+    </ul>
+
+    <h3>(c) Contact via Email</h3>
+    <ul>
+        <li><strong>Origin:</strong> From the interested party through the contact form.</li>
+        <li><strong>Legal Basis:</strong> GDPR, Art. 6.1.b: Performance of a contract.</li>
+        <li><strong>Purposes of Processing:</strong> To attend and respond to queries.</li>
+        <li><strong>Data Category:</strong> Name, email address, phone number, and any data in the message body.</li>
+        <li><strong>Recipients:</strong> No data transfer to third parties except by legal obligation or informed consent.</li>
+        <li><strong>International Transfer:</strong> Not planned.</li>
+        <li><strong>Retention Periods:</strong> Until the purpose for which they were collected ends, unless legally required to keep them.</li>
+    </ul>
+
+    <h3>(d) Workers and Candidates</h3>
+    <ul>
+        <li><strong>Origin:</strong> From the interested party through forms or job portals.</li>
+        <li><strong>Legal Basis:</strong> GDPR, Art. 6.1.b: Performance of a contract.</li>
+        <li><strong>Purposes of Processing:</strong> Hiring, establishment of an employment relationship, or selection process.</li>
+        <li><strong>Data Category:</strong> Name, surname, notification address, ID card, bank account number, phone number, email, academic and professional data (CV).</li>
+        <li><strong>Recipients:</strong> No data transfer to third parties except by legal obligation or informed consent.</li>
+        <li><strong>International Transfer:</strong> Not planned.</li>
+        <li><strong>Retention Periods:</strong> Until the purpose for which they were collected ends, unless legally required to keep them.</li>
+    </ul>
+
+    <h2>5. Data Retention Period</h2>
+    <p>The Company will process your personal data for the period necessary to fulfill the purposes set out in this Privacy Policy, as well as to keep your personal information in compliance with the provisions of the relevant laws and regulations.</p>
+
+    <h2>6. Recipients of Data Communication</h2>
+    <p>Your personal data will not be communicated to third parties without your express consent. However, depending on the purposes for which the personal information is collected, such information may be accessed by:</p>
+    <ul>
+        <li>Employees and/or authorized collaborators, subject to applicable data protection regulations.</li>
+        <li>Competent bodies, authorities, and relevant security forces, where there is a legal obligation.</li>
+        <li>Third-party service providers who process information as data processors (e.g., Marketing Agency, Accounting, Labor and Tax Management, Financial entities, IT Service Provider).</li>
+    </ul>
+
+    <h2>7. Rights of Data Subjects</h2>
+    <p>You can exercise the following rights before the Company by submitting a request to the postal address provided or by email at help@babyvr.com with the subject "GDPR: Rights of the Interested Party":</p>
+    <ul>
+        <li><strong>Right of Access:</strong> Know and obtain information about your personal data.</li>
+        <li><strong>Right of Rectification or Deletion:</strong> Correct errors and modify inappropriate or excessive data.</li>
+        <li><strong>Right to Object:</strong> Object to the processing of your personal data.</li>
+        <li><strong>Right of Limitation:</strong> Mark personal data to limit future processing.</li>
+        <li><strong>Data Portability:</strong> Obtain your data to transmit to another controller.</li>
+        <li><strong>Right Not to Be Subject to Automated Decisions:</strong> Not be subject to automated processing that significantly affects you.</li>
+    </ul>
+
+    <h2>8. Measures Implemented by the Controller Regarding Sensitive Data</h2>
+    <p>The controller has implemented measures to protect users' sensitive data (e.g., pseudonymization, anonymization, restricted access, regular staff training).</p>
+
+    <h2>9. Acceptance of Privacy Policy</h2>
+    <p>By using our services, you acknowledge and agree to this Privacy Policy in its entirety.</p>
+
+    <h2>10. Updating this Privacy Policy</h2>
+    <p>The Company reserves the right to modify this policy to adapt to new legislation or jurisprudence. Any modification will be notified by email.</p>
+
+    <h2>11. Legislation</h2>
+    <p>Relations between the Company and all Users are subject to Spanish legislation, with the Courts and Tribunals of Barcelona being competent for any conflict resolution.</p>
+
+    <p><strong>Updated on May 27th, 2024</strong></p>
+</body>
+</html>
